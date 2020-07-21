@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
   🚀 Semana OmniStack 9
 </h1>
