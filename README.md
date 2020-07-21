@@ -3,7 +3,7 @@
   🚀 Semana OmniStack 9
 </h1>
 
-< br />
+<br>
 
 <h1 align="center">
     <img alt="AirCnc" title="#aircnc" src=".github/logo.png" width="200px" />
